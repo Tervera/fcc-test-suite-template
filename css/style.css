@@ -3,7 +3,9 @@
     max-width: 100%;
 }
 
-#img-div {
-    margin: auto 0;
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
